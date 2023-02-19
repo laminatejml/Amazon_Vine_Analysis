@@ -1,7 +1,8 @@
 # Amazon_Vine_Analysis
 
 ### Overview
-    The purpose of this project was to analyze Amazon Vine reviews from a chosen dataset in an effort to determine if there were any biased reviews on the part of Amazon Vine members. This would be done using pySpark via Google Colab, pgAdmin, and linking them to an AWS database. This in turn can provide some assistance to Sellby stakeholders on the true favorability ratings of their products. From the provided datasets, I have chosen to analyze Musical Instruments and Accessories.
+    
+The purpose of this project was to analyze Amazon Vine reviews from a chosen dataset in an effort to determine if there were any biased reviews on the part of Amazon Vine members. This would be done using pySpark via Google Colab, pgAdmin, and linking them to an AWS database. This in turn can provide some assistance to Sellby stakeholders on the true favorability ratings of their products. From the provided datasets, I have chosen to analyze Musical Instruments and Accessories.
 
 ### Results
 
@@ -15,4 +16,4 @@
 
 ### Summary
 
-    From the results of the given analysis ther is no discernable bias within paid reviews as opposed to unpaid reviews. From what we can see the number of five star reviews are near identical when measured by percentage. As far as the musical instruments dataset goes, there does not to be any bias from Amazon Vine reviewers.
+From the results of the given analysis ther is no discernable bias within paid reviews as opposed to unpaid reviews. From what we can see the number of five star reviews are near identical when measured by percentage. As far as the musical instruments dataset goes, there does not to be any bias from Amazon Vine reviewers.
